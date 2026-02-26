@@ -1,11 +1,6 @@
 project:
-  type: website
+  type: website  
   output-dir: docs
-
-# Presentation defaults
-format:
-  revealjs:
-    css: style.css
 
 
 
