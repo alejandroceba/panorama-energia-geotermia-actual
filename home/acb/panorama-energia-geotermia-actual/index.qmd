@@ -1,7 +1,6 @@
 ---
 title: "Panorama energético  geotermia actual"
 format: revealjs
-css: styles.css
 ---
 
 # Panorama de energía y energía renovable
